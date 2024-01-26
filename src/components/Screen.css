@@ -1,0 +1,10 @@
+.screen {
+    font-size: 2em; 
+  }
+  
+  .screen.small {
+    font-size: 1.5em;
+  }
+  .screen.large {
+    font-size: 2.5em;
+  } 
